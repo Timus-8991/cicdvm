@@ -1,0 +1,14 @@
+D:\cicdvm\cicdvm\bin\Debug\netcoreapp2.2\cicdvm.deps.json
+D:\cicdvm\cicdvm\bin\Debug\netcoreapp2.2\cicdvm.runtimeconfig.json
+D:\cicdvm\cicdvm\bin\Debug\netcoreapp2.2\cicdvm.runtimeconfig.dev.json
+D:\cicdvm\cicdvm\bin\Debug\netcoreapp2.2\cicdvm.dll
+D:\cicdvm\cicdvm\bin\Debug\netcoreapp2.2\cicdvm.pdb
+D:\cicdvm\cicdvm\obj\Debug\netcoreapp2.2\cicdvm.csprojAssemblyReference.cache
+D:\cicdvm\cicdvm\obj\Debug\netcoreapp2.2\cicdvm.csproj.CoreCompileInputs.cache
+D:\cicdvm\cicdvm\obj\Debug\netcoreapp2.2\cicdvm.RazorAssemblyInfo.cache
+D:\cicdvm\cicdvm\obj\Debug\netcoreapp2.2\cicdvm.RazorAssemblyInfo.cs
+D:\cicdvm\cicdvm\obj\Debug\netcoreapp2.2\cicdvm.AssemblyInfoInputs.cache
+D:\cicdvm\cicdvm\obj\Debug\netcoreapp2.2\cicdvm.AssemblyInfo.cs
+D:\cicdvm\cicdvm\obj\Debug\netcoreapp2.2\cicdvm.RazorTargetAssemblyInfo.cache
+D:\cicdvm\cicdvm\obj\Debug\netcoreapp2.2\cicdvm.dll
+D:\cicdvm\cicdvm\obj\Debug\netcoreapp2.2\cicdvm.pdb
